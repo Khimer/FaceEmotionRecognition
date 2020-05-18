@@ -23,3 +23,9 @@ their subsequent classification into classes of emotions in the laboratory work 
   [2D face sets ](http://pics.psych.stir.ac.uk/2D_face_sets.htm)
   
   [The Karolinska Directed Emotional Faces (KDEF) ](http://www.emotionlab.se/kdef/ )
+  
+ # Latest models
+   [manual selection of architecture](https://drive.google.com/open?id=19cpUj-WjD5Rf6VuC4f-DPU8ElUeQPkWX)
+   
+   [selection of architecture using autokeras](https://drive.google.com/open?id=1-1h1ff2gFHYUKXBkgUos3jGm7u2QXeor)
+    
